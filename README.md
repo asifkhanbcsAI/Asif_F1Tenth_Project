@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Algorithm
 
 Implemented a wall-following algorithm using ROS2. In the wall follow algorithm the key task is to steer the vehicle to maintain a fixed distance from the wall while navigating curves. The control is maintained and corrected using the **PID (Proportional-Integral-Derivative)** logic.
@@ -49,3 +50,6 @@ v_{\text{turn}} & \text{if } |\text{steering angle}| > \text{turn threshold} \\
 v_{\text{default}} & \text{otherwise}
 \end{cases}
 \$$
+=======
+# Asif_F1Tenth_Project
+>>>>>>> origin/main
